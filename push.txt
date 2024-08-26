@@ -1,6 +1,9 @@
-git remote add origin "url"
+git remote add <origin> <url>
 git branch -M main
 git push -u origin main
+
+git remote rename <old> <new>
+git remote remove <name>
 
 https://github.com/roywright5/LEARN_GIT.git
 
