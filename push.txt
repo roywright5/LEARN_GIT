@@ -14,8 +14,13 @@ https://github.com/roywright5/Learn_Git.git
 
 https://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@github.com/roywright5/LEARN_GIT.git
 
-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
+
 
 git remote add origin https://github.com/roywright5/Learn_Git.git
 git branch -M main
 git push -u origin main
+
+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
+
+git remote add origin https://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@github.com/roywright5/Learn_Git.git
+
