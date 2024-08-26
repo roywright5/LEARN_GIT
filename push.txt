@@ -1,0 +1,5 @@
+git remote add origin "url"
+git branch -M main
+git push -u origin main
+
+https://github.com/roywright5/LEARN_GIT.git
