@@ -3,3 +3,7 @@ git branch -M main
 git push -u origin main
 
 https://github.com/roywright5/LEARN_GIT.git
+
+https://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@github.com/roywright5/LEARN_GIT.git
+
+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
