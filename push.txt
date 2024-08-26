@@ -5,8 +5,17 @@ git push -u origin main
 git remote rename <old> <new>
 git remote remove <name>
 
-https://github.com/roywright5/LEARN_GIT.git
+git branch -M main  
+
+git remote -v
+
+
+https://github.com/roywright5/Learn_Git.git
 
 https://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@github.com/roywright5/LEARN_GIT.git
 
 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
+
+git remote add origin https://github.com/roywright5/Learn_Git.git
+git branch -M main
+git push -u origin main
